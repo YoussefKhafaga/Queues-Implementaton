@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585167726 source:c:\users\utd\desktop\h.r\queus implementation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
